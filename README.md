@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif) width="600"]
 
 <h1 align="center">Hi 👋, I'm Hritvik mohan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
