@@ -1,4 +1,4 @@
-[![MasterHead](https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif)]
 
 <h1 align="center">Hi 👋, I'm Hritvik mohan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
